@@ -1,4 +1,4 @@
-# Progetto "Digitiamo"
+# Progetto NLP
 
 ### notebooks
 Nel progetto ci sono 3 Notebooks. 
